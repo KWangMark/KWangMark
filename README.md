@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KWangMark
-- This is my personal page, and this page contains the learning analytics exercises and projects I have done. 
-- 🌱 I’m currently learning learning analytics at Columbia University.
+- This is my personal page, this page contains the learning analytics exercises and projects I have done. 
+- 🌱 I’m currently studying learning analytics at Columbia University.
 - 💞️ I’m looking to collaborate on interesting data projects to build up my resume.  
 - 📫 Contact: 
 
