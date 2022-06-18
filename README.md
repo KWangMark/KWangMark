@@ -2,6 +2,7 @@
 - This is my personal page, this page contains the learning analytics exercises and projects I have done. 
 - 🌱 I’m currently studying learning analytics at Columbia University.
 - 💞️ I’m looking to collaborate on interesting data projects to build up my resume.  
+- Any constructive feedback will be appreciated! 
 - 📫 Contact: 
 
 <!---
